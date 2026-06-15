@@ -1,6 +1,6 @@
 # Auren Luxury Travel (Auren Resorts)
 
-An award-winning, highly cinematic, and deeply immersive luxury travel agency website inspired by the highest-tier digital showcases (*Auren Resorts*, *Apple*, *National Geographic*). Crafted for high-resolution depth and bespoke sensory response.
+An award-winning, highly cinematic, and deeply immersive luxury travel agency website inspired by the highest-tier digital showcases (*Auren Resorts*, *Apple*, *National Geographic*). Styled for high-resolution depth and bespoke sensory response.
 
 ## Key Experiential Features
 - **Dynamic 3D WebGL Dune & Wave Engine**: An interactive, responsive WebGL plane utilizing advanced vertex waves and stardust particles to mimic golden sands, high mountain ranges, or deep emerald waters based on your active section.
@@ -33,32 +33,51 @@ An award-winning, highly cinematic, and deeply immersive luxury travel agency we
 
 Follow these steps to run the application locally on your computer:
 
-1. **Clone & Install Dependencies**:
+1. **Clone this repository**:
+   ```bash
+   git clone <your-repo-url>
+   cd auren-luxury-travel
+   ```
+
+2. **Install Dependencies**:
    ```bash
    npm install
    ```
 
-2. **Boot Development Server**:
+3. **Boot Development Server**:
    ```bash
    npm run dev
    ```
 
-3. **Production Compiled Build**:
+4. **Production Build**:
    ```bash
    npm run build
    ```
 
 ---
 
-## 📤 How to Export to GitHub
+## 📤 Publishing to GitHub
 
-1. Click on the **Settings Gear Icon** (or the **Export/Share** button) in the top-right corner of the **Google AI Studio UI**.
-2. Select **Export to GitHub**.
-3. Authenticate with your GitHub account and authorize AI Studio to construct a new repository.
-4. Your clean codebase—including the WebGL canvas, custom models, assets, index files, and this premium README—will be instantly committed!
+To push this codebase to your own GitHub repository:
+
+1. Initialize git if not already set up:
+   ```bash
+   git init
+   git add .
+   git commit -m "feat: initial commit of Auren luxury experience"
+   ```
+2. Create a new repository on GitHub.
+3. Link your local project to your new GitHub repository:
+   ```bash
+   git remote add origin <your-github-repo-url>
+   git branch -M main
+   git push -u origin main
+   ```
+
+*(Alternatively, you can use the built-in Export to GitHub options in your project interface to automate the repository setup.)*
 
 ## 📸 Capturing Screenshots or Video Demo
-To capture a screen recording or screenshots of the website:
-1. Open the **Development App URL** or **Shared App URL** provided by the AI Studio preview environment in a new browser tab.
-2. Press `F11` (or `Cmd+Ctrl+F` on macOS) to toggle fullscreen mode for a cinematic, edge-to-edge experience.
-3. Use a standard screen recorder (such as OBS Studio, QuickTime Player, or Windows Game Bar) to capture the beautiful hover and scroll transitions.
+To capture high-fidelity screen recordings or screenshots of our design:
+1. Open the application.
+2. Press `F11` (or `Cmd+Ctrl+F` on macOS) to hide your browser tabs and enter immersive, full-screen mode.
+3. Use standard recording software (such as OBS Studio, QuickTime, or Windows Game Bar) to capture the beautiful hover animations, smooth WebGL canvas transitions, and customized audio feedback as you scroll.
