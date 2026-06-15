@@ -1,8 +1,25 @@
 # Auren Luxury Travel (Auren Resorts)
 
-An award-winning, highly cinematic, and deeply immersive luxury travel agency website inspired by the highest-tier digital showcases (*Auren Resorts*, *Apple*, *National Geographic*). Styled for high-resolution depth and bespoke sensory response.
+An award-winning, highly cinematic, and deeply immersive luxury travel agency website inspired by the highest-tier digital showcases (*Auren Resorts*, *Apple*, *National Geographic*). Crafted for high-resolution depth and bespoke sensory response.
 
-## Key Experiential Features
+I built this platform to redefine what dynamic, custom-crafted digital storytelling looks like. No template noise, no plain-vanilla cards—just incredibly fluid animations, rich coordinates telemetries, and an absolute obsession over gorgeous layout typography.
+
+---
+
+## 🛠️ Tech Stack & Topics
+- **React 19 (TypeScript)**
+- **Tailwind CSS v4**
+- **Three.js / WebGL / Shaders**
+- **GSAP / ScrollTrigger**
+- **Motion (Framer Motion)**
+- **Web Audio API (Synthesized Drone & sound cues)**
+- **Canvas Confetti Physical Engine**
+- **Lucide Icons**
+- **Greenwich Mean Time (UTC) Clock Synchronization**
+
+---
+
+## 🖤 Key Built-In Experiences
 - **Dynamic 3D WebGL Dune & Wave Engine**: An interactive, responsive WebGL plane utilizing advanced vertex waves and stardust particles to mimic golden sands, high mountain ranges, or deep emerald waters based on your active section.
 - **GSAP ScrollTrigger Fluidity**: Staggered, scroll-bound transitions, parallax topography landscapes, and smooth component animations.
 - **Velvety Soundscapes (Web Audio Synth)**: An organic, low-pass filtered major-9th drone using synthesized oscillators and microscopic button sound cue clicks.
@@ -14,18 +31,8 @@ An award-winning, highly cinematic, and deeply immersive luxury travel agency we
 
 ## 🎨 Visual System & Identity
 
-- **Palette**: Cosmic Charcoal (`#060606`, `#0a0a0a`), Velvet Luxury Gold (`#E6C687`), and Emerald/Rose highlights.
+- **Palette**: Cosmic Charcoal (`#060606`, `#0a0a0a`), Velvet Luxury Gold (`#E6C687`), and Emerald / Rose highlights.
 - **Typography Concept**: Classical serif display typography for grand titles, paired with high-density monospaced font sizes (`JetBrains Mono` / `Fira Code`) for structural coordinates, coordinates systems, and telemetry indicators.
-
----
-
-## 🛠️ Stack & Technology
-
-- **Framework**: React 19 (TypeScript)
-- **Styling**: Tailwind CSS v4
-- **Animation Layer**: Motion + GSAP (GreenSock Animation Platform) + Three.js (WebGL)
-- **Sound System**: Web Audio API (Live synthesizer synthesis, no external static mp3 files required)
-- **Persistance & Confetti**: Lightweight state + Canvas Confetti physical engine
 
 ---
 
@@ -76,8 +83,31 @@ To push this codebase to your own GitHub repository:
 
 *(Alternatively, you can use the built-in Export to GitHub options in your project interface to automate the repository setup.)*
 
-## 📸 Capturing Screenshots or Video Demo
-To capture high-fidelity screen recordings or screenshots of our design:
-1. Open the application.
-2. Press `F11` (or `Cmd+Ctrl+F` on macOS) to hide your browser tabs and enter immersive, full-screen mode.
-3. Use standard recording software (such as OBS Studio, QuickTime, or Windows Game Bar) to capture the beautiful hover animations, smooth WebGL canvas transitions, and customized audio feedback as you scroll.
+---
+
+## 📸 Interface Showroom & Gallery
+
+Here is the structured showcase of the custom fluid travel experience. Drop your saved screenshots in the `/screenshots` folder to display them here!
+
+| **01. Landing & Main Hub** | **02. Alba di Amalfi Experience** |
+|---|---|
+| ![Landing Hub](./screenshots/screenshot_01.png) | ![Alba di Amalfi](./screenshots/screenshot_02.png) |
+
+| **03. Custom Sanctuaries Scroll** | **04. Curated Grand Itineraries** |
+|---|---|
+| ![Scroll Section](./screenshots/screenshot_03.png) | ![Grand Itineraries](./screenshots/screenshot_04.png) |
+
+| **05. Privileges & Add-ons** | **06. Telemetry Stats Engine** |
+|---|---|
+| ![Privileges](./screenshots/screenshot_05.png) | ![Telemetry Stats](./screenshots/screenshot_06.png) |
+
+| **07. Interactive Philosophical Quote** | **08. Patron Chronicles / Reviews** |
+|---|---|
+| ![Philosophy Quote](./screenshots/screenshot_07.png) | ![Reviews](./screenshots/screenshot_08.png) |
+
+| **09. Sovereign Journal CMS** | **10. Bespoke Concierge Form** |
+|---|---|
+| ![Sovereign Journal](./screenshots/screenshot_09.png) | ![Concierge Form](./screenshots/screenshot_10.png) |
+
+---
+*Created by Sadiya Bairgdar.*
