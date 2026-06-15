@@ -1,0 +1,6 @@
+{
+  "name": "Auren Luxury Travel",
+  "description": "An award-winning, cinematic luxury travel website featuring WebGL landscape transitions, immersive scroll storytelling, interactive packages, and bespoke booking concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
