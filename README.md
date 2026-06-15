@@ -81,14 +81,12 @@ To push this codebase to your own GitHub repository:
    git push -u origin main
    ```
 
-*(Alternatively, you can use the built-in Export to GitHub options in your project interface to automate the repository setup.)*
 
 ---
 
 ## 📸 Interface Showroom & Gallery
 
-Here is the structured showcase of the custom fluid travel experience. Drop your saved screenshots in the `/screenshots` folder to display them here!
-
+Here is the structured showcase of the custom fluid travel experience.
 | **01. Landing & Main Hub** | **02. Alba di Amalfi Experience** |
 |---|---|
 | ![Landing Hub](./screenshots/screenshot_01.png) | ![Alba di Amalfi](./screenshots/screenshot_02.png) |
