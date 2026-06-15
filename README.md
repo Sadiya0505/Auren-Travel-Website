@@ -80,32 +80,5 @@ To push this codebase to your own GitHub repository:
    git branch -M main
    git push -u origin main
    ```
-
-
----
-
-## 📸 Interface Showroom & Gallery
-
-Here is the structured showcase of the custom fluid travel experience.
-| **01. Landing & Main Hub** | **02. Alba di Amalfi Experience** |
-|---|---|
-| ![Landing Hub](./screenshots/screenshot_01.png) | ![Alba di Amalfi](./screenshots/screenshot_02.png) |
-
-| **03. Custom Sanctuaries Scroll** | **04. Curated Grand Itineraries** |
-|---|---|
-| ![Scroll Section](./screenshots/screenshot_03.png) | ![Grand Itineraries](./screenshots/screenshot_04.png) |
-
-| **05. Privileges & Add-ons** | **06. Telemetry Stats Engine** |
-|---|---|
-| ![Privileges](./screenshots/screenshot_05.png) | ![Telemetry Stats](./screenshots/screenshot_06.png) |
-
-| **07. Interactive Philosophical Quote** | **08. Patron Chronicles / Reviews** |
-|---|---|
-| ![Philosophy Quote](./screenshots/screenshot_07.png) | ![Reviews](./screenshots/screenshot_08.png) |
-
-| **09. Sovereign Journal CMS** | **10. Bespoke Concierge Form** |
-|---|---|
-| ![Sovereign Journal](./screenshots/screenshot_09.png) | ![Concierge Form](./screenshots/screenshot_10.png) |
-
----
+   
 *Created by Sadiya Bairgdar.*
